@@ -1,0 +1,14 @@
+{
+  "name": "@binary/bundle",
+  "version": "1.0.0",
+  "description": "LISA 工具集定义。",
+  "types": "index.d.ts",
+  "publishConfig": {
+    "registry": "https://registry-lpm.listenai.com"
+  },
+  "author": "xychen <xychen@listenai.com>",
+  "maintainers": [
+    "xychen <xychen@listenai.com"
+  ],
+  "license": "UNLICENSED"
+}
