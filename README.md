@@ -1,4 +1,4 @@
-@binary/bundle
+@lisa-env/type
 ==========
 
 LISA 工具集定义。
