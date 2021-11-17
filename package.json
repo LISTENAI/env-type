@@ -1,6 +1,6 @@
 {
   "name": "@lisa-env/type",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "LISA 工具集定义。",
   "types": "index.d.ts",
   "publishConfig": {
